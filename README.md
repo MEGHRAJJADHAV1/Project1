@@ -1,2 +1,2 @@
 # Project1
-try 1
+print("Hello All! ")
